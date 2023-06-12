@@ -1,21 +1,21 @@
 export const data = [
     {
       "name": "Photo 1",
-      "url": "/images/sg1.jpeg",
+      "url": "/images/insta_1.jpg",
       "description": "Photo 1 description",
       "date": "2020-01-01",
       "type": "image/jpg",
     },
     {
       "name": "Photo 2",
-      "url": "/images/sg2.jpeg",
+      "url": "/images/insta_2.jpg",
       "description": "Photo 2 description",
       "date": "2020-01-02",
       "type": "image/jpg",
     },
     {
       "name": "Photo 3",
-      "url": "/images/sg3.jpeg",
+      "url": "/images/insta_3.jpg",
       "description": "Photo 3 description",
       "date": "2020-01-03",
       "type": "image/jpg",
